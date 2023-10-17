@@ -1,0 +1,5 @@
+git+https://github.com/intelligent-environments-lab/CityLearn.git@7881b36084096fb68ffe8c20d71abe720cbe8bad#egg=citylearn
+--find-links https://download.pytorch.org/whl/torch_stable.html
+torch==1.12.1+cpu
+xgboost==1.6.2
+numba==0.56.0
