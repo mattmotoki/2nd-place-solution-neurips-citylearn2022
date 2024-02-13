@@ -1,4 +1,4 @@
-# [NeurIPS 2022 Citylearn Challenge](https://www.aicrowd.com/challenges/neurips-2022-citylearn-challenge)
+# [NeurIPS Citylearn Challenge 2022](https://www.aicrowd.com/challenges/neurips-2022-citylearn-challenge)
 
 
 This repository contains the 2nd place solution for the NeurIPS 2022 Citylearn Challenge.
